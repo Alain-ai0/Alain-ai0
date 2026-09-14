@@ -13,7 +13,7 @@
 </a>
 
 <div>
-    <img src="./assets/about_alain.gif" alt="About Me Terminal GIF"/>
+    <img src="./about-alain.gif" alt="About Me Terminal GIF"/>
 </div>
 
 ### Main skills

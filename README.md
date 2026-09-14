@@ -54,4 +54,4 @@ You can find my insights and technical notes on LinkedIn, where I share career m
 > <a href="mailto:alainprinceikuzwe@gmail.com">Contact me via Email</a> or <a href="https://linkedin.com/in/alain-prince-ikuzwe">Reach out on LinkedIn</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer" alt="footer"/>
-![Metrics](metrics.svg)
+<img src="./metrics.svg" alt="Metrics" />
